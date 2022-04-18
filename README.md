@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @erfan-khalaji
-- 👀 I’m interested in applications of computational&data science in studying animal cognition and behaviour.
-- 🌱 I’m currently a PhD student at the Department of Psychology, University of Alberta.
